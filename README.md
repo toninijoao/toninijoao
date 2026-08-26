@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo João Felipe Pansanato Tonini e tenho 19 anos. Atualmente, estou cursando Engenharia de Software na UTFPR, onde tive a honra de passar em 1º Lugar em 2024! Apaixonado por tecnologia e o jeito que ela consegue facilitar qualquer cotidiano. Recentemente, estou aprofundando meus conhecimentos na área de Inteligência Artificial e suas nuances.
+Me chamo João Felipe Pansanato Tonini e tenho 20 anos. Atualmente, estou cursando Engenharia de Software na UTFPR, onde tive a honra de passar em 1º Lugar em 2024! Apaixonado por tecnologia e o jeito que ela consegue facilitar qualquer cotidiano. Recentemente, estou aprofundando meus conhecimentos na área de Inteligência Artificial e suas nuances.
 
 --------------------------------------------------------------------------------------------
 
