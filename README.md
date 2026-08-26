@@ -6,7 +6,7 @@ Me chamo João Felipe Pansanato Tonini e tenho 20 anos. Atualmente, estou cursan
 
 --------------------------------------------------------------------------------------------
 
-My name is João Felipe Pansanato Tonini and I am 19 years old. Currently, I am studying Software Engineering at UTFPR, where I had the honor of being admitted in 1st place in 2024! Passionate about technology and the way it can make everyday life easier. Recently, I have been deepening my knowledge in the field of Artificial Intelligence and its nuances.
+My name is João Felipe Pansanato Tonini and I am 20 years old. Currently, I am studying Software Engineering at UTFPR, where I had the honor of being admitted in 1st place in 2024! Passionate about technology and the way it can make everyday life easier. Recently, I have been deepening my knowledge in the field of Artificial Intelligence and its nuances.
 
 
 ---
