@@ -88,12 +88,10 @@ My name is João Felipe Pansanato Tonini and I am 20 years old. Currently, I am 
 ### 📊 Estatísticas
 
 <p>
- 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=toninijoao&theme=tokyonight&layout=compact&langs_count=6&cache_seconds=3600" 
-/>
-
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=toninijoao&theme=tokyonight&layout=compact&langs_count=6" 
+  />
 </p>
