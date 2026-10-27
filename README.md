@@ -147,8 +147,8 @@ João Felipe Pansanato Tonini. Software Engineering student at UTFPR (admitted 1
 <p>
   <img 
     align="left" 
-    alt="Top Languages" 
+    alt="GitHub Stats" 
     height="200" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=toninijoao&theme=tokyonight" 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=toninijoao&theme=tokyonight&layout=compact&langs_count=6" 
   />
 </p>
