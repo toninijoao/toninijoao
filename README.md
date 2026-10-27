@@ -2,11 +2,10 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo João Felipe Pansanato Tonini e tenho 20 anos. Atualmente, estou cursando Engenharia de Software na UTFPR, onde tive a honra de passar em 1º Lugar em 2024! Apaixonado por tecnologia e o jeito que ela consegue facilitar qualquer cotidiano. Atualmente , estou aprofundando meus conhecimentos na área de Inteligência Artificial e suas nuances.
-
+João Felipe Pansanato Tonini. Estudante de Engenharia de Software na UTFPR (1º lugar no vestibular 2024), com foco em IA aplicada e Machine Learning. Trabalho com deep learning (PyTorch), ML clássico (scikit-learn), LLMs, RAG e agentes, incluindo guardrails para respostas seguras e confiáveis. Desenvolvo backends em Python/FastAPI e integro LangChain, Groq e Supabase para criar sistemas de recomendação e aplicações com IA.
 --------------------------------------------------------------------------------------------
 
-My name is João Felipe Pansanato Tonini and I am 20 years old. Currently, I am studying Software Engineering at UTFPR, where I had the honor of being admitted in 1st place in 2024! Passionate about technology and the way it can make everyday life easier. Recently, I have been deepening my knowledge in the field of Artificial Intelligence and its nuances.
+João Felipe Pansanato Tonini. Software Engineering student at UTFPR (admitted 1st place, 2024), focused on applied AI and Machine Learning. I work with deep learning (PyTorch), classical ML (scikit-learn), LLMs, RAG and agents, including guardrails for safe and reliable outputs. I build Python/FastAPI backends and integrate LangChain, Groq and Supabase to create recommendation systems and AI-powered applications.
 
 
 ---
@@ -80,6 +79,63 @@ My name is João Felipe Pansanato Tonini and I am 20 years old. Currently, I am 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PyTorch" 
+    title="PyTorch"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="scikit-learn" 
+    title="scikit-learn"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Pandas" 
+    title="Pandas"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="NumPy" 
+    title="NumPy"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="FastAPI" 
+    title="FastAPI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="LangChain" 
+    title="LangChain"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.simpleicons.org/langchain" 
+/>
+<img 
+    align="left" 
+    alt="Supabase" 
+    title="Supabase"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" 
 />
 
 <br/>
