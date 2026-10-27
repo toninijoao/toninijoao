@@ -3,6 +3,7 @@
 **`Desenvolvedor Backend`**
 
 João Felipe Pansanato Tonini. Estudante de Engenharia de Software na UTFPR (1º lugar no vestibular 2024), com foco em IA aplicada e Machine Learning. Trabalho com deep learning (PyTorch), ML clássico (scikit-learn), LLMs, RAG e agentes, incluindo guardrails para respostas seguras e confiáveis. Desenvolvo backends em Python/FastAPI e integro LangChain, Groq e Supabase para criar sistemas de recomendação e aplicações com IA.
+
 --------------------------------------------------------------------------------------------
 
 João Felipe Pansanato Tonini. Software Engineering student at UTFPR (admitted 1st place, 2024), focused on applied AI and Machine Learning. I work with deep learning (PyTorch), classical ML (scikit-learn), LLMs, RAG and agents, including guardrails for safe and reliable outputs. I build Python/FastAPI backends and integrate LangChain, Groq and Supabase to create recommendation systems and AI-powered applications.
